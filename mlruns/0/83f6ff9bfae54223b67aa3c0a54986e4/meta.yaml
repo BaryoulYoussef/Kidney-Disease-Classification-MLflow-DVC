@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/Kidney-Disease-Classification/Kidney-Disease-Classification-MLflow-DVC/mlruns/0/83f6ff9bfae54223b67aa3c0a54986e4/artifacts
+end_time: 1742774147316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83f6ff9bfae54223b67aa3c0a54986e4
+run_name: enchanting-trout-404
+run_uuid: 83f6ff9bfae54223b67aa3c0a54986e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742774139587
+status: 4
+tags: []
+user_id: baryo

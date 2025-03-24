@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/Kidney-Disease-Classification/Kidney-Disease-Classification-MLflow-DVC/mlruns/0/483ba551c1a14436ab73dd03074596c4/artifacts
+end_time: 1742768557000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 483ba551c1a14436ab73dd03074596c4
+run_name: classy-loon-16
+run_uuid: 483ba551c1a14436ab73dd03074596c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742768545549
+status: 4
+tags: []
+user_id: baryo
